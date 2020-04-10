@@ -3,7 +3,7 @@ layout: post
 title:  "Tìm hiểu về router Wi-Fi 5GHz"
 author: congnghemoi
 categories: [ wifi, 5ghz ]
-image: assets/images/2.jpg
+image: assets/images/2.png
 ---
 > **[Wifi băng tần 5GHz](https://shopee.vn/B%E1%BB%99-ph%C3%A1t-Router-Wifi-Newifi-3-D2-AC1200-Rom-PADAVAN-OPENWRT-Ti%E1%BA%BFng-Anh-i.9281544.2332004178)** đang rất được chú ý hiện nay. Người dùng có thêm sự lựa chọn khác ngoài Wifi 2.4GHz. Nếu bạn đang băn khoăn giữa băng tần 2.4ghz và 5ghz có gì khác nhau không, liệu băng tần 5GHz có tốt hơn không? Hay có thể kết hợp chúng trong cùng một thiết bị không? Bạn có thể tìm câu trả lời trong bài viết sau đây.
 
